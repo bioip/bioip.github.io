@@ -26,24 +26,11 @@ Grants like those in the ABI Innovation program are never truly done, or there a
 * Very large files still don't play super nice with public git repositories.
 * Summarizing results has to happen in two places, NSF reporting and the blog. Ideally posts here could be batch processed for the format that fastlane lets you batch load.
 
+# Contributing
 
+* Here is the git repository for the site: [https://github.com/bioip/bioip.github.io](https://github.com/bioip/bioip.github.io). 
 
 # Disclaimer 
 
 This project was funded by NSF-ABI-1356381. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. 
 
-
--- TODO: SNIP --
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
