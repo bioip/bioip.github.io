@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Integrating NOMEN"
+date:   2018-08-28 14:37:06 -0500
+categories: [interface, ontology, issues]
+---
+
+The NOMEN ontology is a fairly technical description of biological nomenclature, i.e. there are a lot of semantics behind it. We developed three interfaces that allow users to persist data the mocks the nomen format while hiding away all the technical complexity.
+
+* [Link to the NOMEN ontology](https://github.com/SpeciesFileGroup/nomen) 
+* [Issues](https://github.com/SpeciesFileGroup/taxonworks/projects/2)
