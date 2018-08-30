@@ -15,6 +15,7 @@ permalink: /participants/
 
 * Andrea Thomer (Student, then faculty at University of Michigan)
 * Chris Nixon (Library Information Science)
+* Guo, Jinlong  (Library Information Science)
 * Lai Jiang (Industrial Design)
 * Guanyunbo Yang (Computer Science)
 * Joshua Yu (Computer Science)
@@ -24,18 +25,23 @@ permalink: /participants/
 * István Mikó
 * Andy Deans  
 
-## Collaborators
+# Collaborators & Co-authors
 
-### Workshop participants
+* Lars Vogt
+* Jim Balhoff
 
-* < TODO >
+# Workshop participants
 
-### Developers 
+* Aaron Smith
+* David Maddison
+* Jen Zaspel
+
+# Developers 
 
 * José Luis Pereira 
 * Fuauzi Klima 
 
-### Taxonomists
+# Taxonomists
 
 Over 30, their names are protected by a IRB.
 

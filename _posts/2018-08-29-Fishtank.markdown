@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Fishtank - Visualizing phenotypes with the Phenoscape API"
+date:   2018-08-28 14:37:06 -0500
+categories: [outreach, semantics, software]
+---
+
+We (Matt, István, the former's logistics supported by this grant) participated in the 2017 Phenoscape KB-DataFest. Matt built a tool for visualizing phenotype data, István worked semantic modelling and how we might use Noctua.  We also explored representing phenotype data in NeXML, NeXSON, and other JSON based formats.
+
+* [Fishtank code](https://github.com/phenoscape/fishtank)
+* [Noctua](http://noctua.berkeleybop.org/)
