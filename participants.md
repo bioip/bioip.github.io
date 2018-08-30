@@ -15,7 +15,7 @@ permalink: /participants/
 
 * Andrea Thomer (Student, then faculty at University of Michigan)
 * Chris Nixon (Library Information Science)
-* Guo, Jinlong  (Library Information Science)
+* Jinlong Guo  (Library Information Science)
 * Lai Jiang (Industrial Design)
 * Guanyunbo Yang (Computer Science)
 * Joshua Yu (Computer Science)
@@ -23,26 +23,42 @@ permalink: /participants/
 ## Penn State 
 
 * István Mikó
-* Andy Deans  
+* Andy Deans 
 
-# Collaborators & Co-authors
+### Students
 
-* Lars Vogt
-* Jim Balhoff
+* Carolyn Trietsch
+* Kyle Burks 
+* Jonah Ulmer
 
-# Workshop participants
+# Collaborators, Co-authors, and Workshop Participants
 
 * Aaron Smith
+* Ana Dal Molin
+* Bertram Ludaescher
+* Chris Dietrich
 * David Maddison
+* Dmitry Dmitriev
+* Elijah Talamas
+* George Melika
 * Jen Zaspel
+* Jennifer Girón
+* Jim Balhoff
+* Lars Vogt
+* Mark Metz
+* Mike Maehr
+* Roger Burks
+* Salvatore Anzaldo
+* Sándor Csösz
+* Sergey Tarasov
 
 # Developers 
 
 * José Luis Pereira 
-* Fuauzi Klima 
+* Fauzi Kliman 
 
-# Taxonomists
+# Taxonomists!
 
-Over 30, their names are protected by a IRB.
+We interviewed over 30 other taxonomists, their names and affiliations are protected by a an IRB.
 
 

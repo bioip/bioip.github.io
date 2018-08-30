@@ -2,7 +2,7 @@
 layout: post
 title:  "Taxonomy and the production of semantic phenotypes"
 date:   2018-08-28 14:37:06 -0500
-categories: [publication, semantics]
+categories: [publications, semantics]
 ---
 
 A lot of work on the grant came together in this project, it linked our interviews through to our design concepts, some of which we implmented in practice within TaxonWorks.

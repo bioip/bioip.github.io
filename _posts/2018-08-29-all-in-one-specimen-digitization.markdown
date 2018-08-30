@@ -2,7 +2,7 @@
 layout: post
 title:  "All in one specimen digitization"
 date:   2018-08-28 14:37:06 -0500
-categories: [interface, issue]
+categories: [interfaces, issues]
 ---
 
 [The issue](https://github.com/SpeciesFileGroup/taxonworks/issues/337).
