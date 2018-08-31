@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JSON-as-a-building-block"
+title:  "JSON as a building block"
 date:   2018-08-28 14:37:06 -0500
 categories: [howto, semantics]
 ---
