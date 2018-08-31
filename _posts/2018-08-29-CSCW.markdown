@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Computer-Supported Cooperative Work"
+date:   2018-08-28 14:37:06 -0500
+categories: [howto]
+---
+
+Our project was multidisciplinary. A majority of the collaborators were biologists, some of whom have moved to focus on biodiversity informatics. Almost without exception, prior to this initiation of this project, the domain biologists had not heard of the field of computer-supported cooperative work (CSCW).  Anyone developing production software in programs like the NSF ABI is encouraged to take a seriously look at this field, and to find a willing collaborator. 
+
+As with all such multidisciplinary work, it takes a lot of time and effort to learn how to work productively together, but then the advantages of cross-fertilization start to kick in. Although the funded part of the project has now ended, the ongoing analysis and use of derived insights continues. We believe we now have a much better understanding of how to develop and integrate novel interfaces and functionalities into the taxonomic workflow. This is critical because as many CSCW case studies have shown, it is essential to have the big picture of the work process even if you are only designing a change of a small part. We need tools that taxonomists can adopt adapt and integrate into the particularities of their own work practices and the constrains of the particular specimens, species and genera that they are working with. These should build on what it is that taxonomists do, particularly as they move from a group of specimens to defining a species. This involves grouping and moving. Deciding what counts as 'in' and what is 'out' and what to do about cases on the 'edge'. Many existing tools are simply about making it easy to document the end result of that hard expert observational intellectual work, but are less useful in actually supporting the doing of it. So the work resides in manipulating specimens, images, etc. in working towards a good definition. We think supporting the process is as important as supporting the database entry part.
+
+We were exicited to see our project be capped with a [paper](/publications/2018/08/28/Transforming-taxonomic-interfaces.html) accepted to the [CSCW 2018](http://cscw.acm.org/2018/), the premier venue in CSCW.
+
+

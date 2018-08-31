@@ -2,7 +2,7 @@
 layout: post
 title:  "Symbolic representation of organisms interface"
 date:   2018-08-28 15:37:06 -0500
-categories: [interfaces, moonshots]
+categories: [interfaces, moonshots, howto]
 ---
 
 This is work done by industrial design graduate student Lai Jiang, at the University of Illinois. Given very minimal information she was tasked to explored interfaces that would let us describe species via individual phenotypes. She did a fantastic job of linking ideas from on-line card games to interfaces that let you define and organize what could be used as anatomy ontology descriptions. The following is Lai's final presentation on the project.
@@ -10,7 +10,7 @@ This is work done by industrial design graduate student Lai Jiang, at the Univer
 ## Taxon Plays: Symbolic representation of organisms interface
 
 * [Original format](https://laijiang9567.wixsite.com/taxonplays)
-* [Interactive prototype](/assets/apps/TaxonPlay.app.zip) _Requires the XXX player avaible on Mac only_
+* [Interactive prototype](/assets/apps/TaxonPlay.app.zip) (built with [http://principleformac.com/](http://principleformac.com/), App is Mac only)
 
 ### Application overview 
 

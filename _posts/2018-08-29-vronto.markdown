@@ -5,5 +5,6 @@ date:   2018-08-28 14:37:06 -0500
 categories: [interfaces, moonshots]
 ---
 
-The _vronto_ project seeks to link anatomy ontologies to virtual reality environments. It was a "moonshot" project and was a lot of fun to work on.  It's further described [in its own repository](https://github.com/bioip/vronto).
+The _vronto_ project seeks to link anatomy ontologies to virtual reality environments. It was a "moonshot" project and was a lot of fun to work on. It is further described [in its own repository](https://github.com/bioip/vronto).
 
+![Screenshot of the VR world]({{ "/assets/img/vronto_sneak_peak.png" | absolute_url }})
