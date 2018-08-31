@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Pinboard"
+date:   2018-08-28 14:37:06 -0500
+categories: [interfaces]
+---
+
+One of the early concepts we followed up on was the "Pinboard", essentially a favourites slide-out with some built in functionality. We developed the pinboard in TaxonWorks and it has become a critical user-interface element that lets the user bridge interfaces via prioritizing and defaulting specific data.
+
+* [Initial pinboard concept](https://invis.io/XFNRM5B5K2H#/155723641_Pinboard)
+
+As ultimately implemented in TaxonWorks. Note that you can:
+* Set a record as default (green arrow, presents option to auto-fill forms that can use that data)
+* Pull up the radial annotator and annotate the object (record) directly from the pinboard (blue icon)
+* Jump to that record. 
+
+![As ultimately implemented in TaxonWork]({{ "/assets/img/pinboard.png" | absolute_url }})

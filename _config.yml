@@ -16,7 +16,7 @@
 title: Biodiversity Informatics Processes 
 email: diapriid@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  Results, and ongoing work from NSF supported NSF ABI DBI 13-56515.
+  Outcomes from NSF ABI 1356515.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bioip.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mjyoder 
@@ -27,12 +27,12 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-categories:
-  - publication
-  - semantics
-  - software
-  - ontology
-  - collaboration
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
