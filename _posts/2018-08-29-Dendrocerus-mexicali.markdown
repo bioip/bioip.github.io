@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Dendrocerus mexicali"
+title:  "Dendrocerus mexicali"
 date:   2018-08-28 14:37:06 -0500
 categories: [publications, semantics]
 ---

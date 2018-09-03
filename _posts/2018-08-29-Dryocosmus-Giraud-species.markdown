@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Dryocosmus Giraud species associated with Cyclobalanopsis and non­Quercus host plants from the Eastern Palaearctic (Hymenoptera: Cynipidae: Cynipini)"
+title:  "New Dryocosmus Giraud species associated with Cyclobalanopsis and non-­Quercus host plants from the Eastern Palaearctic (Hymenoptera: Cynipidae: Cynipini)"
 date:   2018-08-28 14:37:06 -0500
 categories: [publications, semantics]
 ---

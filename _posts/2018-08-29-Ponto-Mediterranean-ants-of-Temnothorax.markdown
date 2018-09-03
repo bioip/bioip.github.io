@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ponto­Mediterranean ants of Temnothorax nylanderi species­group"
+title: "Ponto-­Mediterranean ants of Temnothorax nylanderi species-­group"
 date:   2018-08-28 14:37:06 -0500
 categories: [publications, semantics]
 ---
