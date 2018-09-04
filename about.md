@@ -25,6 +25,7 @@ Grants like those in the ABI Innovation program are perhaps never truly done, or
 * Git repos let others see how the results being presented change over time ("diffs" of prior commits)
 * Git based projects are readily hosted on major public platforms
 * Existing software tools let you produce websites that hosting platforms will automatically turn into websites (like this one) 
+* Existing tools like Zenodo let you very easily generate a DOI for the archive.
 
 # Known issues
 
