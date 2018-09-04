@@ -8,8 +8,8 @@ permalink: /participants/
 
 ## University of Illinois
 
-* Matt Yoder 
-* Mike Twidale
+* Matt Yoder ([Species File Group](http://speciesfilegroup.org/), [Illinois Natural History Survey](http://www.inhs.illinois.edu/)) orcid.org/0000-0002-5640-5491
+* Mike Twidale ([School of Information Sciences](https://ischool.illinois.edu/))
 
 ### Students
 

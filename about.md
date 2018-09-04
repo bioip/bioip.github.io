@@ -7,9 +7,12 @@ permalink: /about/
 As we wrapped up the official duration of a recent NSF grant we needed a place to index and/or store the various outcomes of the project.  As it was an "Innovation" based grant, some products were truly open ended, it felt like they should none-the-less get referenced somewhere.
 
 This is an experimental use of a [commonly used blog generator too](https://jekyllrb.com/) to index the products of an NSF grant, in this case _ABI-1356515: "Collaborative Research: ABI Innovation: Rapid prototyping of semantic enhancements to biodiversity informatics platforms"_.   
+
 # How does it work?  
 
 Each post is links to a product, outcome, or observation dervied in whole or in part from the grant.  
+
+_You can download this repository/archive, perhaps to re-archive the content, using [git](https://git-scm.com/), it's found on almost every computer by default. From a terminal just enter the command `git clone https://github.com/bioip/bioip.github.io.git`._
 
 # Why this format?
 
@@ -28,6 +31,7 @@ Grants like those in the ABI Innovation program are perhaps never truly done, or
 * Very large files still don't play super nice with public git repositories.
 * Summarizing results has to happen in two places, NSF reporting and the blog. Ideally posts here could be batch processed for the format that fastlane lets you batch load.
 * Perhaps it could be the other way around, report.research.gov could generate the markdown of the reports section and users could post it to the web as desired.
+* We need to more finely tune the meta tags for the site, and potentially individual posts.
 
 # Contributing
 

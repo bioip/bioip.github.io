@@ -7,4 +7,4 @@ categories: [ontologies, publications, semantics]
 
 Interfaces that improve semantics require the semantics themselves to be present.  This paper, and a series of others by co-pi István Mikó and domain (biologist) collaborators sequentially introduced new semantic patterns and concepts useful to describing biodiversity.
 
-* Wirkner CS, Göpel T, Runge J , Keiler J, Klussmann-Fricke B-J, Huckstorf K, Scholz S, Mikó I, Yoder M, Richter S (2017) The first organ based ontology for arthropods (Ontology of Arthropod Circulatory Systems OArCS) and a semantic model for the formalization of morphological descriptions. Systematic Biology.
+* Wirkner CS, Göpel T, Runge J , Keiler J, Klussmann-Fricke B-J, Huckstorf K, Scholz S, Mikó I, Yoder M, Richter S (2017) The first organ based ontology for arthropods (Ontology of Arthropod Circulatory Systems OArCS) and a semantic model for the formalization of morphological descriptions. Systematic Biology. [doi: 10.1093/sysbio/syw108](https://academic.oup.com/sysbio/article/66/5/754/2957053).
