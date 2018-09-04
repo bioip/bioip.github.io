@@ -8,7 +8,7 @@ As we wrapped up the official duration of a recent NSF grant we needed a place t
 
 This is an experimental use of a [commonly used blog generator too](https://jekyllrb.com/) to index the products of an NSF grant, in this case _ABI-1356515: "Collaborative Research: ABI Innovation: Rapid prototyping of semantic enhancements to biodiversity informatics platforms"_. 
 
-We generated a meta? DOI using [Zenodo](https://zenodo.org) see [howto](https://guides.github.com/activities/citable-code/).
+We generated a DOI for this archive: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1409244.svg)](https://doi.org/10.5281/zenodo.1409244). See [how](https://guides.github.com/activities/citable-code/) using [Zenodo](https://zenodo.org).
 
 # How does it work?  
 
