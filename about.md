@@ -6,7 +6,9 @@ permalink: /about/
 
 As we wrapped up the official duration of a recent NSF grant we needed a place to index and/or store the various outcomes of the project.  As it was an "Innovation" based grant, some products were truly open ended, it felt like they should none-the-less get referenced somewhere.
 
-This is an experimental use of a [commonly used blog generator too](https://jekyllrb.com/) to index the products of an NSF grant, in this case _ABI-1356515: "Collaborative Research: ABI Innovation: Rapid prototyping of semantic enhancements to biodiversity informatics platforms"_.   
+This is an experimental use of a [commonly used blog generator too](https://jekyllrb.com/) to index the products of an NSF grant, in this case _ABI-1356515: "Collaborative Research: ABI Innovation: Rapid prototyping of semantic enhancements to biodiversity informatics platforms"_. 
+
+We generated a meta? DOI using [Zenodo](https://zenodo.org) see [howto](https://guides.github.com/activities/citable-code/).
 
 # How does it work?  
 
